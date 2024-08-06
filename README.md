@@ -1,1 +1,2 @@
-bash kscraper.sh
+# Keyword Scraper
+usage: bash kscraper.sh

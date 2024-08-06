@@ -1,0 +1,1 @@
+bash kscraper.sh
